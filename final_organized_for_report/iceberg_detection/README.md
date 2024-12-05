@@ -86,7 +86,7 @@ Custom CNN architecture:
 ## Acknowledgments
 
 - Dataset provided by Statoil/C-CORE Iceberg Classifier Challenge
-- Special thanks to Professor and TA for helping al thorugh the journey
+- Special thanks to Professor and TA for helping all thorugh out the journey
 
 ## Repository Structure
 
